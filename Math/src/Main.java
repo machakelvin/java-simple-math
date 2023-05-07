@@ -17,7 +17,7 @@ class Math {
 
         if (operation.equals("sum")){
             System.out.printf("the sum of %f and %f is %f", number1, number2, number1  + number2 );
-        }
+         }
 
         else if (operation.equals("sub")){
             System.out.printf("the subtraction of %f and %f is %f", number1, number2, number1 - number2 );
