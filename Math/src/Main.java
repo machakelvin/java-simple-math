@@ -36,6 +36,6 @@ class Math {
 
         else{
             System.out.println("our system can only perform few operations which are sum, sub, div and mult(for your operation to work correctly write them as they appear here) for further complex calculations visit other sources");
-        }
+         }
     }
 }
